@@ -2,5 +2,6 @@
 {
     public class first
     {
+        Console.WriteLine("Hello, World!");
     }
 }
